@@ -1,0 +1,8 @@
+C:\Users\Ibrahim\source\repos\ShapeApp\ShapeApp\obj\Debug\ShapeApp.csproj.AssemblyReference.cache
+C:\Users\Ibrahim\source\repos\ShapeApp\ShapeApp\obj\Debug\ShapeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ibrahim\source\repos\ShapeApp\ShapeApp\obj\Debug\ShapeApp.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\ShapeApp\ShapeApp\bin\Debug\ShapeApp.exe.config
+C:\Users\Ibrahim\source\repos\ShapeApp\ShapeApp\bin\Debug\ShapeApp.exe
+C:\Users\Ibrahim\source\repos\ShapeApp\ShapeApp\bin\Debug\ShapeApp.pdb
+C:\Users\Ibrahim\source\repos\ShapeApp\ShapeApp\obj\Debug\ShapeApp.exe
+C:\Users\Ibrahim\source\repos\ShapeApp\ShapeApp\obj\Debug\ShapeApp.pdb
